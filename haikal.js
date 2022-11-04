@@ -372,7 +372,7 @@ haikal.relayMessage(m.chat, order.message, { messageId: order.key.id })
 }
 break
 //=================================================//
-case 'diosantet': {
+case 'satrianysantet': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length < 1) return m.reply(`*Syntax Error!*\n\nUse : ${command} nomor target|amount spam|timer\nExample : ${command} 62888s.whatsapp.net|1|10s\n\n\ns = Second/Detik\n\n`)
@@ -4171,7 +4171,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➢jadikatalog [ reply sticker ] jumlah
 ╚════[ 𝑋𝑣𝑆𝑎𝑡𝑟𝑖𝑎𝑛𝑦 ]══════⊱
 ╠➢satrianyskuy 628xxx ( target)
-╠➢diosantet 628xxx@s.whatsapp.net|10|10s ( target )
+╠➢satrianysantet 628xxx@s.whatsapp.net|10|10s ( target )
 ╠➢catalogpc 628xxx@s.whatsapp.net|10|10s
 ╠➢pftt 112674448xxx  ( gc )
 ╠➢santetgc  1237891xxxx@g.us|10|10s
