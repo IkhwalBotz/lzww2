@@ -28,8 +28,8 @@ global.botname = '𝑋𝑣𝑆𝑎𝑡𝑟𝑖𝑎𝑛𝑦' //ubah jadi nama bot
 global.footer = '𝑋𝑣𝑆𝑎𝑡𝑟𝑖𝑎𝑛𝑦' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['17077706888'] // ubah aja pake nomor lu
-global.premium = ['17077706888'] // ubah aja pake nomor lu
+global.owner = ['6285899109527'] // ubah aja pake nomor lu
+global.premium = ['6285899109527'] // ubah aja pake nomor lu
 global.packname = '𝑋𝑣𝑆𝑎𝑡𝑟𝑖𝑎𝑛𝑦' // ubah aja
 global.ownerr = ['𝑋𝑣𝑆𝑎𝑡𝑟𝑖𝑎𝑛𝑦'] // ubaha aja
 global.author = '𝑋𝑣𝑆𝑎𝑡𝑟𝑖𝑎𝑛𝑦' //ubah aja
